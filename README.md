@@ -19,10 +19,6 @@ An interactive educational platform for visualizing algorithms.
     ```bash
     git clone https://github.com/yourusername/AlgoLearn.git
     ```
-2.  Navigate to the frontend directory:
-    ```bash
-    cd frontend
-    ```
 3.  Install dependencies:
     ```bash
     npm install
